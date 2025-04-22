@@ -1,7 +1,7 @@
 # John-R-Brinkley-Game
 A simple text adventure game about the life of John Romulus Brinkley
 
-Project Created by: Ace Stout and Courtney Huynh
+Project Created by: Ace Stout and Courtney Huynh using [Twine](https://twinery.org)
 
 The main source used for was the John R Brinkley [Wikipedia](https://en.wikipedia.org/wiki/John_R._Brinkley) page
 
